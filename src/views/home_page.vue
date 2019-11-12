@@ -5,10 +5,10 @@
                 <v-carousel>
                     <v-carousel-item>
                         <v-img
-                                src="https://cdn.damo.alibaba.com/7212cfd584db879c76cd72f849effff5/shiyanshitoutu.jpg"
-                                contain
-                                height="100%"
-                                width="100%"
+                            src="https://cdn.damo.alibaba.com/7212cfd584db879c76cd72f849effff5/shiyanshitoutu.jpg"
+                            contain
+                            height="100%"
+                            width="100%"
                         ></v-img>
                     </v-carousel-item>
                 </v-carousel>
